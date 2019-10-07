@@ -1,0 +1,6 @@
+Andrew's e-mail address is andrewt@example.com
+The pope has e-mail: benedictxvi@example.com
+Two famous addresses are billg@example.com & sjobs@example.com
+You program should also treat examples such
+as these as e-mail addresses:
+a@example.com 12345@example.com hello@example.com
